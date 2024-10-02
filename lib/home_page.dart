@@ -12,7 +12,7 @@ class HomePage extends StatelessWidget {
       appBar: AppBar(
         backgroundColor: Colors.brown[600],
         title: Center(child: Text("My Resume",style: TextStyle(
-            color: Colors.brown[200],
+            color: Colors.white,
             fontSize: 40,
             fontWeight: FontWeight.bold,
         ),)),

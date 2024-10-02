@@ -6,7 +6,12 @@ class Skills extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-
+        backgroundColor: Colors.brown[600],
+        title: Center(child: Text("Skills",style: TextStyle(
+          color: Colors.white,
+          fontSize: 40,
+          fontWeight: FontWeight.bold,
+        ),)),
       ),
       body: Column(
 
