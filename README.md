@@ -2,7 +2,7 @@
 
 Resume Project.
 
-![screenshot](assets/images/screenshot.png)
+![screenshot](assets/images/img.png)
 
 ## Getting Started
 
