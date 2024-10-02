@@ -1,6 +1,8 @@
 # resume_flutter
 
-A new Flutter project.
+Resume Project.
+
+![screenshot](assets/images/screenshot.png)
 
 ## Getting Started
 
