@@ -7,7 +7,7 @@ Resume Project.
 ![screenshot](assets/images/img_1.png)
 ![screenshot](assets/images/img_2.png)
 ![screenshot](assets/images/img_3.png)
-
+- [Screen record video](https://youtu.be/_OZt6TsQTIE)
 
 ## Getting Started
 
