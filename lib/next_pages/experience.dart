@@ -13,8 +13,17 @@ class Experience extends StatelessWidget {
           fontWeight: FontWeight.bold,
         ),)),
       ),
-      body: Column(
-
+      body: Center(
+        child: Column(
+          children: [
+            SizedBox(height: 20,),
+            Text("   None!!   ",style: TextStyle(
+              color: Colors.brown[300],
+              fontSize: 30,
+              fontWeight: FontWeight.bold,
+            ),),
+          ]
+        ),
       ),
     );
   }

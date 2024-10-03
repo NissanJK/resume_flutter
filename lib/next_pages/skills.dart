@@ -13,8 +13,21 @@ class Skills extends StatelessWidget {
           fontWeight: FontWeight.bold,
         ),)),
       ),
-      body: Column(
-
+      body: Center(
+        child: SingleChildScrollView(
+          scrollDirection: Axis.horizontal,
+          child: Row(
+            children: [
+              SizedBox(height: 20,),
+              Image.asset("assets/images/html.png",width: 200,height: 200,),
+              SizedBox(height: 10,),
+              Image.asset("assets/images/css.png",width: 200,height: 200,),
+              SizedBox(height: 10,),
+              Image.asset("assets/images/js.png",width: 200,height: 200,),
+              SizedBox(height: 10,),
+            ],
+          ),
+        ),
       ),
     );
   }
